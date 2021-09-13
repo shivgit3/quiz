@@ -1,3 +1,12 @@
+As we are facing some difficulties in hosting our project so we are adding this video link
+which can be used to see the working of our project.
+
+use this url->"https://drive.google.com/file/d/1nkB1xU4Igf3q_IHXjxtAhQMaQtBEtRk9/view?usp=sharing"  
+
+
+
+
+
 # FINALASSESMENT
 1. Project Prerequisites :
 This Django Quiz App requires a good knowledge of html, css, javascript, 
